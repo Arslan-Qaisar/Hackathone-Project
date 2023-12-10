@@ -28,7 +28,7 @@ export default function page() {
           <div className="fb"><i className="fab fa-facebook" />  Facebook</div>
         </div>
         <div className="social" style={{ marginLeft: "20%" }}>
-          <Link href="/Dashboard">
+          <Link href="/">
             <div>
               <div>Dashboard</div>
             </div>
